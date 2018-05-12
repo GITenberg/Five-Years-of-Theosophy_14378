@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4696
     wikipedia: http://en.wikipedia.org/wiki/G._R._S._Mead
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14378#Five-Years-of-Theosophy
 gutenberg_bookshelf: Racism
 gutenberg_issued: '2004-12-18'
 gutenberg_type: Text
